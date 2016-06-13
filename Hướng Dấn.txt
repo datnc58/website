@@ -1,0 +1,2 @@
+﻿Khi bạn vào trang chủ không cần tài khoản, và bạn có thể đăng kí tài khoản để đăng được bài.
+Khi vào trang admin của site, bạn đăng nhập với tài khoản: admin ; pass: admin
